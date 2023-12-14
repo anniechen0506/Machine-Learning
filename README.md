@@ -17,3 +17,4 @@ Assignment Work:
 5. [Random Forests & Boosting](https://github.com/anniechen0506/Machine-Learning-Fall-2023/blob/main/5_Random_Forests_%26_Boosting.ipynb)
 6. [Neural Nets](https://github.com/anniechen0506/Machine-Learning-Fall-2023/blob/main/6_Neural_Nets.ipynb)
 7. [Image Text Classification](https://github.com/anniechen0506/Machine-Learning-Fall-2023/blob/main/7_Image_Text_Classification.ipynb)
+8. [Clustering & Principal Component Analysis (PCA)](https://github.com/anniechen0506/Machine-Learning-Fall-2023/blob/main/8_WineData_Clustering_%26_PCA.ipynb)
